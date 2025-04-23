@@ -4,6 +4,9 @@ let accountEmail = "sameer145@gmail.com"
 var accountPassword = "1245"
 accountCity = "Bhagalpur"
 
+// VAR declares variables with global scope and allows re-declaration within the same scope
+// LET & CONST declares variables with block scope and cannot be re-declaration within same scope.
+
 let accountState;
 // In JAVASCRIPT semicolon(;) doesn't matter either u use it or not it'll not make any change.
 
